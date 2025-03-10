@@ -1,16 +1,16 @@
 # White Paper
 
-## TradeSafe: Revolutionising Payment Systems Through Yield-Generating Rails
+## Trade3: Revolutionising Payment Systems Through Yield-Generating Rails
 
 ### Abstract
 
-TradeSafe introduces a groundbreaking paradigm in financial transactions by leveraging cryptocurrency to transform the way money is held and transferred. By combining the reliability of structured payment rails with yield-generating capabilities, TradeSafe addresses inefficiencies in traditional payment systems, which often store transaction funds in low-yield accounts.
+Trade3 introduces a groundbreaking paradigm in financial transactions by leveraging cryptocurrency to transform the way money is held and transferred. By combining the reliability of structured payment rails with yield-generating capabilities, Trade3 addresses inefficiencies in traditional payment systems, which often store transaction funds in low-yield accounts.
 
-This white paper explores how TradeSafe disrupts the status quo, allowing funds to earn 4-15% annualised yield while awaiting disbursement, delivering superior value to businesses, individuals, and institutions.
+This white paper explores how Trade3 disrupts the status quo, allowing funds to earn 4-15% annualised yield while awaiting disbursement, delivering superior value to businesses, individuals, and institutions.
 
 ### Introduction
 
-Current payment systems lack optimisation for capital efficiency. Whether in large B2B transactions or escrow-style arrangements, funds are often parked in low-yield traditional bank accounts for extended periods. These legacy systems result in untapped financial potential. TradeSafe offers a solution: a cryptocurrency-based payment infrastructure where funds in transit or escrow earn competitive yields through decentralised finance (DeFi) or other interest-bearing protocols. With transactions structured in phases to meet compliance and operational requirements, TradeSafe bridges the gap between payment functionality and financial growth.
+Current payment systems lack optimisation for capital efficiency. Whether in large B2B transactions or escrow-style arrangements, funds are often parked in low-yield traditional bank accounts for extended periods. These legacy systems result in untapped financial potential. Trade3 offers a solution: a cryptocurrency-based payment infrastructure where funds in transit or escrow earn competitive yields through decentralised finance (DeFi) or other interest-bearing protocols. With transactions structured in phases to meet compliance and operational requirements, Trade3 bridges the gap between payment functionality and financial growth.
 
 ### Key Problems in Traditional Payment Systems
 
@@ -23,13 +23,13 @@ Current payment systems lack optimisation for capital efficiency. Whether in lar
 4. Legacy Infrastructure: Conventional payment rails lack integration with yield-generating assets, offering no way to capitalise on funds in transit.
     
 
-### What is TradeSafe?
+### What is Trade3?
 
-TradeSafe is a hybrid payment system that combines traditional and crypto rails, enabling users to earn yield on transaction funds while maintaining liquidity and operational control. The platform is designed to integrate seamlessly into current financial processes, offering a familiar yet innovative approach to managing payments.
+Trade3 is a hybrid payment system that combines traditional and crypto rails, enabling users to earn yield on transaction funds while maintaining liquidity and operational control. The platform is designed to integrate seamlessly into current financial processes, offering a familiar yet innovative approach to managing payments.
 
 ### Core Features
 
-1. Yield-Generating Wallets: Funds in the TradeSafe ecosystem are automatically placed in interest-bearing accounts or DeFi protocols, earning yields of 4–15% depending on the strategy chosen.
+1. Yield-Generating Wallets: Funds in the Trade3 ecosystem are automatically placed in interest-bearing accounts or DeFi protocols, earning yields of 4–15% depending on the strategy chosen.
     
 2. Phased Transaction Structuring: Supports large transactions with phased disbursements to align with contractual milestones and compliance requirements.
     
@@ -40,7 +40,7 @@ TradeSafe is a hybrid payment system that combines traditional and crypto rails,
 
 ### How It Works
 
-1. Deposit & Yield Allocation: Users deposit funds into a TradeSafe wallet. These funds are automatically allocated to safe, yield-generating protocols, such as DeFi lending platforms or tokenised money market instruments.
+1. Deposit & Yield Allocation: Users deposit funds into a Trade3 wallet. These funds are automatically allocated to safe, yield-generating protocols, such as DeFi lending platforms or tokenised money market instruments.
     
 2. Structured Payments: For large transactions, funds are locked in smart contracts with disbursement schedules matching transaction phases.
     
@@ -49,7 +49,7 @@ TradeSafe is a hybrid payment system that combines traditional and crypto rails,
 4. Compliance Integration: KYC/AML protocols and automated reporting ensure regulatory adherence for institutional and corporate clients.
     
 
-### Advantages of TradeSafe
+### Advantages of Trade3
 
 **For Businesses**
 
@@ -78,7 +78,7 @@ TradeSafe is a hybrid payment system that combines traditional and crypto rails,
 
 **Smart Contracts**
 
-TradeSafe employs robust smart contracts to automate yield generation, fund disbursement, and compliance checks. These contracts are audited regularly to ensure security and performance.
+Trade3 employs robust smart contracts to automate yield generation, fund disbursement, and compliance checks. These contracts are audited regularly to ensure security and performance.
 
 **Yield Strategies**
 
@@ -93,17 +93,17 @@ Funds are allocated to diversified yield-generating options, including:
 
 ### API & Integration
 
-TradeSafe exposes APIs that enable seamless and secure integration into existing accounting, ERP, and payment systems, making adoption frictionless.
+Trade3 exposes APIs that enable seamless and secure integration into existing accounting, ERP, and payment systems, making adoption frictionless.
 
 ### Economic Impact
 
-TradeSafe eliminates the inefficiency of dormant capital. For example, a $10 million transaction held for three months in a TradeSafe wallet earning 8% annualised yield would generate approximately $200,000—funds that would otherwise go unrealised.
+Trade3 eliminates the inefficiency of dormant capital. For example, a $10 million transaction held for three months in a Trade3 wallet earning 8% annualised yield would generate approximately $200,000—funds that would otherwise go unrealised.
 
 This reallocation of value has profound implications for liquidity management and corporate financial planning.
 
 ### Risk Mitigation
 
-TradeSafe incorporates rigorous safeguards, including:
+Trade3 incorporates rigorous safeguards, including:
 
 - Diversified Protocol Use: Minimising reliance on any single DeFi platform.
     
@@ -114,10 +114,10 @@ TradeSafe incorporates rigorous safeguards, including:
 
 ### Why Now?
 
-The intersection of increasing DeFi maturity, institutional adoption of tokenised assets, and dissatisfaction with traditional payment rails creates the perfect storm for TradeSafe’s adoption. Businesses and individuals alike are seeking alternatives that combine security, yield, and efficiency—a gap TradeSafe is uniquely positioned to fill.
+The intersection of increasing DeFi maturity, institutional adoption of tokenised assets, and dissatisfaction with traditional payment rails creates the perfect storm for Trade3’s adoption. Businesses and individuals alike are seeking alternatives that combine security, yield, and efficiency—a gap Trade3 is uniquely positioned to fill.
 
 ### Conclusion
 
-TradeSafe transforms the concept of payment systems by empowering funds in transit to generate yield, unlocking new revenue streams and operational efficiencies. By aligning cutting-edge crypto technologies with real-world payment needs, TradeSafe delivers a solution that is not just timely but essential.
+Trade3 transforms the concept of payment systems by empowering funds in transit to generate yield, unlocking new revenue streams and operational efficiencies. By aligning cutting-edge crypto technologies with real-world payment needs, Trade3 delivers a solution that is not just timely but essential.
 
-Join us in revolutionising the way payments are held, structured, and monetised. TradeSafe isn’t just a system—it’s an alternative future of uncensorable financial transactions.
+Join us in revolutionising the way payments are held, structured, and monetised. Trade3 isn’t just a system—it’s an alternative future of uncensorable financial transactions.
