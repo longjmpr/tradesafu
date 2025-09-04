@@ -16,5 +16,13 @@ Key concepts: formal provability of anonymity, implementation details with regar
 - Deploy onto Sui testnet. Mainnet optional (let us know if you need wallet dust).
 - Provide a project README in Markdown
 - In a separate MPC.md document, share your thoughts on how one might build a MPC 2 of 3 escrow wallet solution employing zkLogin. No need to implement, we just want a high level feasibility assessment. If you feel this isn't possible, share your reasoning.  
-- Share the finished project source code repo link with your referee(s) in Telegram.
 - Final online meeting with engineering team members to talk about your proposed solution
+
+### Format
+
+Please put all of the deliverables into a public git repo. 
+
+### Deadline 
+
+Please "stream" the deliverables to your referee(s) as you complete each step, ie not a monolithic delivery. We would like to receive everything within three calendar days of receipt.
+
